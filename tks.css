@@ -1,0 +1,22 @@
+
+.sign_out{
+	position: absolute;
+	top: calc(50%);
+	left: calc(40% );
+	z-index: 2;
+}
+
+.sign_out input[type=submit]{
+	width: 260px;
+	height: 35px;
+	background: #fff;
+	border: 1px solid #fff;
+	cursor: pointer;
+	border-radius: 2px;
+	color: #a18d6c;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 6px;
+	margin-top: 10px;
+}
